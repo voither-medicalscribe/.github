@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/myselfgus/repo/refs/heads/main/2025-07-19%20095235.png" alt="VOITHER Logo" width="325"/>
+</p>
+
 # Voither MedicalScribe
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" width="24"/> Português
