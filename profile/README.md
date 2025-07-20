@@ -1,6 +1,7 @@
 # Voither MedicalScribe
 
-## 🇧🇷 Sobre nós
+## <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" width="24"/> Português
+## Sobre nós 
 
 A **Voither MedicalScribe** é dedicada a inovar o registro e a gestão da informação em saúde. Nosso objetivo é simplificar e potencializar o trabalho de profissionais do setor, oferecendo soluções tecnológicas que tornam a documentação clínica mais eficiente, precisa e segura.
 
@@ -32,7 +33,8 @@ Buscamos colaboração aberta! Se você é desenvolvedor, profissional de saúde
 
 ---
 
-## 🇪🇸 Sobre nosotros
+## <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" width="24"/> Español
+## Sobre nosotros
 
 **Voither MedicalScribe** está dedicada a innovar el registro y la gestión de la información en salud. Nuestro objetivo es simplificar y potenciar el trabajo de los profesionales del sector, ofreciendo soluciones tecnológicas que hacen la documentación clínica más eficiente, precisa y segura.
 
@@ -64,7 +66,8 @@ Desarrollar herramientas digitales que promuevan la excelencia en la atención s
 
 ---
 
-## 🇬🇧 About us
+## <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width="24"/> English
+## About us
 
 **Voither MedicalScribe** is dedicated to innovating healthcare information management and documentation. Our goal is to simplify and empower healthcare professionals by delivering technological solutions that make clinical documentation more efficient, accurate, and secure.
 
